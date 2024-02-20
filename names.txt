@@ -1,2 +1,3 @@
+role,NetID,Lastname,Firstname
 boss,FayeJiang0120,Jiang,Faye
 employee,ychen2286,Chen,Brendon
